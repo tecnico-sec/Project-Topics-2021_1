@@ -1,4 +1,4 @@
-Instituto Superior Técnico, Universidade de Lisboa
+Instituto Superior TÃ©cnico, Universidade de Lisboa
 
 **Network and Computer Security**
 
@@ -78,7 +78,7 @@ The switch between modes should be done with changes to the policy documents but
 
 - [RFC2753](https://tools.ietf.org/html/rfc2753) -- Framework for Policy-based Admission Control
 - [XACML](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xacml#other) -- security policy language _(there are other languages)_
-  - [XACML library](https://github.com/att/XACML) -- example XACML implementation _(there are other libraries)_
+  - [XACML library](https://github.com/wso2/balana) -- example XACML implementation _(there are other libraries)_
 
 ----
 
